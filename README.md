@@ -16,6 +16,9 @@ This is called the 'Hamming distance'
 
 The Hamming distance between these two DNA strands is 7.
 
+## Exercise
+
+Open `hamming.rb` and fill in the `hamming` method to satisfy the various `check` method calls.
 
 ## Source
 
